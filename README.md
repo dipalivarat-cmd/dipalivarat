@@ -13,7 +13,7 @@
 - 🌱 Learning Java Full Stack Development
 - 💻 Interested in Backend Development
 - 🗄️ Oracle SQL & PL/SQL Developer
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: dipalivarat@gmail.com
 
 ---
 
