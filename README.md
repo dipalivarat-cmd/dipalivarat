@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipali Varat</h1>
-<h3 align="center">Java Full Stack Developer | SQL Developer | Python Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer | SQL Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dipalivarat-cmd&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -87,12 +87,14 @@
 
 # 📌 Current Projects
 
-### ✅ Inventory Management System
-- Java
-- Spring Boot
-- MySQL
-- REST API
-- JWT Authentication
+
+### ✅ Blockchain-Based carbon registry and MRV
+- HTML
+- CSS
+- Javascript
+- node.js
+- database
+
 
 ### ✅ Tours & Travels Website
 - HTML
@@ -101,11 +103,6 @@
 - Bootstrap
 - Responsive Design
 
-### ✅ Smart Plot Management System
-- Java Full Stack
-- MySQL
-- Admin Dashboard
-- Property Management
 
 ---
 
